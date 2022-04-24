@@ -1,0 +1,6 @@
+.place__image {
+  width: 47%;
+  height: 47%;
+  object-fit: cover;
+  object-position: center;
+}
