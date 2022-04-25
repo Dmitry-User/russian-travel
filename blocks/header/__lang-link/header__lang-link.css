@@ -5,3 +5,10 @@
   line-height: 1.17;
   cursor: pointer;
 }
+
+@media (max-width: 576px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}

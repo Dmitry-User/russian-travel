@@ -2,3 +2,13 @@
   width: 49%;
   align-self: flex-end;
 }
+
+@media (max-width: 576px) {
+  .place__website-box {
+    width: 100%;
+    align-self: flex-start;
+    padding: 0 16px;
+    box-sizing: border-box;
+  }
+}
+

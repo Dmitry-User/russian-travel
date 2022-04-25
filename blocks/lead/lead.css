@@ -1,5 +1,18 @@
 .lead {
+  padding: 0 148px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
+@media (max-width: 1140px) {
+  .lead {
+    padding: 0 48px;
+  }
+}
+@media (max-width: 992px) {
+  .lead {
+    padding: 0;
+  }
+}
+

@@ -1,6 +1,18 @@
 .header {
   margin: 0 auto;
+  padding: 0 48px;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+}
+
+@media (max-width: 992px) {
+  .header {
+    padding: 0 24px;
+  }
+}
+@media (max-width: 576px) {
+  .header {
+    padding: 0 16px;
+  }
 }
