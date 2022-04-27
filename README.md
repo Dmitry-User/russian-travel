@@ -10,6 +10,6 @@
 * Grid Layout
 * Figma
 
-<img src="./images/dmitry-user.png" width="70%" height="500">
+<img src="./images/dmitry-user.png" width="70%" height="500" overflow="scroll">
 
 [Ссылка на сайт **Путешествие по России**](https://dmitry-user.github.io/russian-travel/)
