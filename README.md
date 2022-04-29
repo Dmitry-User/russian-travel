@@ -10,6 +10,8 @@
 * Grid Layout
 * Figma
 
-<img src="./images/dmitry-user.png" width="70%">
+<p width="70%" height="500px" display="bolck">
+<img src="./images/dmitry-user.png" width="100%">
+</p>
 
 [Ссылка на сайт **Путешествие по России**](https://dmitry-user.github.io/russian-travel/)
